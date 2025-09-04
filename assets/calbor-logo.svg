@@ -1,0 +1,12 @@
+<svg width="360" height="100" viewBox="0 0 360 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .word { font: 700 40px 'Inter', Arial, sans-serif; fill: #2d2d2d; letter-spacing: 1px; }
+      .sub { font: 600 16px 'Inter', Arial, sans-serif; fill: #8B5E3C; letter-spacing: 3px; }
+    </style>
+  </defs>
+  <rect x="0" y="10" width="80" height="80" rx="12" fill="#F05A28"/>
+  <path d="M56 74H38c-12 0-22-10-22-22s10-22 22-22h18" fill="none" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <text x="95" y="54" class="word">CALBOR</text>
+  <text x="95" y="80" class="sub">ENGENHARIA</text>
+</svg>
